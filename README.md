@@ -8,7 +8,7 @@ Features
 - Competitive Lock
 - Death Counter
 - FPS Counter
-- Remove FPS Limit
+- No FPS Limit
 
 more features coming soon :)
 

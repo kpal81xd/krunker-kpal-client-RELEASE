@@ -1,14 +1,7 @@
-# Krunker Client
+# KPal Client
 Features
-- Custom Crosshair Overlay
-- Custom Image Crosshair
-- Custom Scope
-- Customise Matchmaking
-- Custom Games Manager
-- Competitive Lock
-- Death Counter
-- FPS Counter
-- No FPS Limit
+- Customised Matchmaking
+- Unlimited FPS
+- Window Capture
 
-more features coming soon :)
 

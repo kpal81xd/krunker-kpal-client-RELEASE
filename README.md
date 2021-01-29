@@ -1,6 +1,6 @@
 # KPal Client
 
-![logo](./img/logo.png?raw=true =100x20)
+![logo](./img/logo.png)
 
 ## Download
 - [Windows](https://github.com/kpal81xd/krunker-kpal-client-RELEASE/releases/download/v1.3.2/kpal_client-setup-1.3.2.exe)

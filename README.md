@@ -18,6 +18,7 @@
 - Force Color Profile
 
 ## Keybinds
+- F3 - Quick search using matchmaker
 - F4 - Finds random new match
 - F5 - Refreshes page
 - F11 - Fullscreen

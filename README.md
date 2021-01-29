@@ -1,5 +1,7 @@
 # KPal Client
 
+![logo](https://github.com/kpal81xd/krunker-kpal-client-RELEASE/blob/master/img/logo.png?raw=true)
+
 ## Download
 - [Windows](https://github.com/kpal81xd/krunker-kpal-client-RELEASE/releases/download/v1.3.2/kpal_client-setup-1.3.2.exe)
 - [Mac](https://github.com/kpal81xd/krunker-kpal-client-RELEASE/releases/download/v1.3.2/kpal_client-1.3.2.dmg)

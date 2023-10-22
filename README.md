@@ -3,10 +3,10 @@
 <img src="./img/logo.png" alt="logo" width="200"/>
 
 ## Download
-- [Windows](https://github.com/kpal81xd/krunker-kpal-client-RELEASE/releases/download/v1.3.2/kpal_client-setup-1.3.2.exe)
-- [Mac](https://github.com/kpal81xd/krunker-kpal-client-RELEASE/releases/download/v1.3.2/kpal_client-1.3.2.dmg)
-- [Linux (x32)](https://github.com/kpal81xd/krunker-kpal-client-RELEASE/releases/download/v1.3.2/kpal_client-1.3.2.AppImage)
-- [Linux (x64)](https://github.com/kpal81xd/krunker-kpal-client-RELEASE/releases/download/v1.3.2/kpal_client-1.3.2-x86_64.AppImage)
+- [Windows](https://github.com/kpal81xd/krunker-kpal-client-RELEASE/releases/download/v1.3.3/KPal-Client-Setup-1.3.3.exe)
+- [Mac](https://github.com/kpal81xd/krunker-kpal-client-RELEASE/releases/download/v1.3.3/KPal-Client-1.3.3.dmg)
+- [Linux (x32)](https://github.com/kpal81xd/krunker-kpal-client-RELEASE/releases/download/v1.3.3/KPal-Client-1.3.3-i386.AppImage)
+- [Linux (x64)](https://github.com/kpal81xd/krunker-kpal-client-RELEASE/releases/download/v1.3.3/KPal-Client-1.3.3.AppImage)
 
 ## Features
 - Crosshair overlay
